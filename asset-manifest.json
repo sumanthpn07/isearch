@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sumanthpn07/isearch.git/static/css/main.637a9d2c.chunk.css",
+    "main.js": "/sumanthpn07/isearch.git/static/js/main.c4f15b9e.chunk.js",
+    "main.js.map": "/sumanthpn07/isearch.git/static/js/main.c4f15b9e.chunk.js.map",
+    "runtime-main.js": "/sumanthpn07/isearch.git/static/js/runtime-main.f37deac3.js",
+    "runtime-main.js.map": "/sumanthpn07/isearch.git/static/js/runtime-main.f37deac3.js.map",
+    "static/css/2.a95be28f.chunk.css": "/sumanthpn07/isearch.git/static/css/2.a95be28f.chunk.css",
+    "static/js/2.e9a35c2e.chunk.js": "/sumanthpn07/isearch.git/static/js/2.e9a35c2e.chunk.js",
+    "static/js/2.e9a35c2e.chunk.js.map": "/sumanthpn07/isearch.git/static/js/2.e9a35c2e.chunk.js.map",
+    "static/js/3.292514b8.chunk.js": "/sumanthpn07/isearch.git/static/js/3.292514b8.chunk.js",
+    "static/js/3.292514b8.chunk.js.map": "/sumanthpn07/isearch.git/static/js/3.292514b8.chunk.js.map",
+    "index.html": "/sumanthpn07/isearch.git/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/sumanthpn07/isearch.git/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.637a9d2c.chunk.css.map": "/sumanthpn07/isearch.git/static/css/main.637a9d2c.chunk.css.map",
+    "static/js/2.e9a35c2e.chunk.js.LICENSE.txt": "/sumanthpn07/isearch.git/static/js/2.e9a35c2e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f37deac3.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.e9a35c2e.chunk.js",
+    "static/css/main.637a9d2c.chunk.css",
+    "static/js/main.c4f15b9e.chunk.js"
+  ]
+}
